@@ -1,0 +1,21 @@
+.custom-site-header {
+	padding-top: 10px;
+}
+
+.custom-site-header > img {
+	border-radius: 10px 10px 0px 0px;
+}
+
+.custom-bg-footer {
+	background-color: #666;
+}
+
+.custom-link-footer {
+	color: #FFF;
+	font-weight: bold;
+}
+
+.custom-link-footer > a:focus, a:hover {
+	color: #FFF;
+	text-decoration: none;
+}
